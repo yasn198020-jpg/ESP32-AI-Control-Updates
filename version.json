@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "channel": "android-4.4.2",
+  "packageName": "com.yasn198020.aicontrol4",
+  "minSdk": 19,
+  "versionCode": 0,
+  "versionName": "",
+  "apk": "app.apk",
+  "sha256": ""
+}

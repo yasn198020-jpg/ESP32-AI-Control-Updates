@@ -3,8 +3,8 @@
     "channel":  "android-5.1.1",
     "packageName":  "com.yasn198020.aicontrol4",
     "minSdk":  22,
-    "versionCode":  5254,
+    "versionCode":  5255,
     "versionName":  "5.1.1-vosk",
     "apk":  "app.apk",
-    "sha256":  "c047a185d68093385b26ca372ffe31c3251eb44a5e7e1a1cbdc3a310dbb81a4e"
+    "sha256":  "67165b930ce00f1d01fbdffa1734db889b462f90c476292cf316ecfb5b311d4d"
 }

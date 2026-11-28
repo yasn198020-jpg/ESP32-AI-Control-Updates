@@ -1,14 +1,14 @@
-{
-  "schemaVersion": 1,
-  "channel": "windows-10-mobile",
-  "platform": "Windows 10 Mobile",
-  "packageIdentity": "ESP32AIControl.UWP",
-  "publisher": "CN=ESP32AIControl",
-  "minOsVersion": "10.0.10586.0",
-  "architecture": "ARM",
-  "version": "1.0.0.3",
-  "package": "app.appxbundle",
-  "sha256": "",
-  "enabled": false,
-  "releaseNotes": "Первая версия канала обновлений Windows 10 Mobile."
+﻿{
+    "schemaVersion":  1,
+    "channel":  "windows-10-mobile",
+    "platform":  "Windows 10 Mobile",
+    "packageIdentity":  "ESP32AIControl.UWP",
+    "publisher":  "CN=ESP32AIControl",
+    "minOsVersion":  "10.0.10586.0",
+    "architecture":  "ARM",
+    "version":  "1.0.0.5",
+    "package":  "app.appxbundle",
+    "sha256":  "d023e93243562752becedcbc5f8a5e3a024465af58be50ee3482b4392ac2170b",
+    "enabled":  false,
+    "releaseNotes":  "Debug build 1.0.0.5 published locally; OTA remains disabled pending device testing."
 }

@@ -6,9 +6,9 @@
   "publisher": "CN=ESP32AIControl",
   "minOsVersion": "10.0.10586.0",
   "architecture": "ARM",
-  "version": "0.0.0.0",
+  "version": "1.0.0.3",
   "package": "app.appxbundle",
   "sha256": "",
   "enabled": false,
-  "releaseNotes": "Канал обновлений Windows 10 Mobile ещё не опубликован."
+  "releaseNotes": "Первая версия канала обновлений Windows 10 Mobile."
 }
